@@ -1,0 +1,2 @@
+# springsim-2020-submission
+This is my submission for 2020 Spring Simulation Conference. The paper discusses the trend analysis of COVID-19 pandemic in Canada. The goal was to see whether the trend is following an exponential or a logistic trend. In order to do this, a mathematical approach was used where an exponential and a logistic curve was fit to the actual data from which it was determined which curve is a better fit. This in turn could help see whether Canada has passed the inflection point and is on the path to flattening the curve.
